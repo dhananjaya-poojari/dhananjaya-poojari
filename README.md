@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjaya-poojari&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjaya-poojari" /> </p>
 
-- 🔭 I’m currently working in [insightsoftware](https://insightsoftware.com/)
+- 🔭 I’m currently working in [Wissen](https://www.wissen.com/)
 
 - 🌱 I’m currently learning **C#, .Net, Javascript, ReactJs**
 
